@@ -1,0 +1,16 @@
+{
+  "ADATLISTA": [
+    { "id":1,
+    "nev": "Dézi", 
+    "fajta": "keverék", 
+    "kor": 12 },
+    {"id":2,
+     "nev": "Bodri",
+     "fajta": "mudi", 
+     "kor": 12 },
+    { "id":3,
+    "nev": "Loki", 
+    "fajta": "tacskó",
+     "kor": 5 }
+  ]
+}
